@@ -6,9 +6,21 @@ An interactive explainer for building deep intuition about the F1 score, in the 
 
 Early exploration phase. Migrating from Claude iOS chat sessions to this repo for better persistence and organization.
 
-## Current Files
+## Skills
 
-- `docs/initial-impressions-ladder-of-abstraction.md` - Initial vision for the ladder approach
+### `ladder-evaluation`
+
+A Claude Code skill for evaluating prototypes against Ladder of Abstraction principles. Claude will automatically apply this when reviewing explainer components.
+
+Located in `.claude/skills/ladder-evaluation/`:
+- `SKILL.md` - Overview and quick evaluation
+- `principles.md` - The three moves, system components, anti-patterns
+- `checklists.md` - Detailed evaluation criteria with quality gradients
+- `f1-mapping.md` - F1-specific ladder application
+
+## Documentation
+
+- `docs/initial-impressions-ladder-of-abstraction.md` - Initial vision capture
 
 ## TODO
 
