@@ -1,11 +1,20 @@
 ---
 name: skill-authoring
-description: Guide for creating Claude Code skills. Use when building new skills, structuring skill files, writing skill descriptions, or organizing progressive context loading. Covers SKILL.md format, file organization, and best practices.
+description: Create and evolve Claude Code skills. Use when building new skills, structuring skill files, writing descriptions, capturing session learnings as skill refinements, or updating skills from latest documentation. Covers SKILL.md format, progressive loading, versioning, and learning patterns.
 ---
 
-# Skill Authoring Guide
+# Skill Authoring
 
-Create effective Claude Code skills that auto-activate and progressively load context.
+Create and evolve Claude Code skills that auto-activate and progressively load context.
+
+## When to Use This Skill
+
+- Building a new skill from scratch
+- Structuring skill files for progressive loading
+- Writing effective skill descriptions
+- Capturing session learnings as skill refinements
+- Updating skills based on new documentation
+- Versioning and evolving existing skills
 
 ## What is a Skill?
 
@@ -61,13 +70,5 @@ Brief overview (1-2 sentences).
 ## More Details
 
 - [File Structure](./structure.md) - Organization patterns
-- [Best Practices](./best-practices.md) - Tips and anti-patterns
-- [Skill Evolution](./evolution.md) - Versioning, updating, learning from experience
-
-## Official Documentation
-
-- [Skills Reference](https://docs.anthropic.com/en/docs/claude-code/skills) - Authoritative source
-- [Memory & Context](https://docs.anthropic.com/en/docs/claude-code/memory) - How skills fit into context
-- [Slash Commands](https://docs.anthropic.com/en/docs/claude-code/slash-commands) - Alternative to skills
-
-When in doubt, fetch latest docs with WebFetch to check for updates.
+- [Best Practices](./best-practices.md) - Tips, anti-patterns, official docs
+- [Skill Evolution](./evolution.md) - Versioning, updating from docs, learning from experience

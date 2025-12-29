@@ -114,3 +114,14 @@ allowed-tools:
 | Vague description | Never activates | Add specific action verbs and triggers |
 | No quick reference | Forces full file load for simple tasks | Add concise quick-start section |
 | Duplicate content | Wastes tokens, risks inconsistency | Single source of truth, link to it |
+
+---
+
+## Official Documentation
+
+These practices are derived from official Claude Code documentation. When in doubt, check the source:
+
+- [Skills Reference](https://docs.anthropic.com/en/docs/claude-code/skills) - Authoritative guide
+- [Memory & Context](https://docs.anthropic.com/en/docs/claude-code/memory) - How skills fit into Claude's context
+
+Use `WebFetch` to pull latest docs if something isn't working as expected.
