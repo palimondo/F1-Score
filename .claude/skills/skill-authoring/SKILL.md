@@ -62,3 +62,12 @@ Brief overview (1-2 sentences).
 
 - [File Structure](./structure.md) - Organization patterns
 - [Best Practices](./best-practices.md) - Tips and anti-patterns
+- [Skill Evolution](./evolution.md) - Versioning, updating, learning from experience
+
+## Official Documentation
+
+- [Skills Reference](https://docs.anthropic.com/en/docs/claude-code/skills) - Authoritative source
+- [Memory & Context](https://docs.anthropic.com/en/docs/claude-code/memory) - How skills fit into context
+- [Slash Commands](https://docs.anthropic.com/en/docs/claude-code/slash-commands) - Alternative to skills
+
+When in doubt, fetch latest docs with WebFetch to check for updates.
