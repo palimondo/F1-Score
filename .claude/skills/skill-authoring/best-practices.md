@@ -121,7 +121,8 @@ allowed-tools:
 
 These practices are derived from official Claude Code documentation. When in doubt, check the source:
 
-- [Skills Reference](https://docs.anthropic.com/en/docs/claude-code/skills) - Authoritative guide
-- [Memory & Context](https://docs.anthropic.com/en/docs/claude-code/memory) - How skills fit into Claude's context
+- [Claude Code Skills](https://code.claude.com/docs/en/skills) - Authoritative guide for Claude Code
+- [Agent Skills Overview](https://platform.claude.com/docs/en/agents-and-tools/agent-skills/overview) - General Agent Skills docs
+- [What are Skills?](https://support.claude.com/en/articles/12512176-what-are-skills) - Help Center explainer
 
 Use `WebFetch` to pull latest docs if something isn't working as expected.

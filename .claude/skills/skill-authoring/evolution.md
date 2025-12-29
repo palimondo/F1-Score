@@ -73,9 +73,10 @@ For skills that evolve frequently, add a changelog section or file:
 
 | Topic | URL |
 |-------|-----|
-| Skills | https://docs.anthropic.com/en/docs/claude-code/skills |
-| Memory | https://docs.anthropic.com/en/docs/claude-code/memory |
-| Commands | https://docs.anthropic.com/en/docs/claude-code/slash-commands |
+| Claude Code Skills | https://code.claude.com/docs/en/skills |
+| Agent Skills Overview | https://platform.claude.com/docs/en/agents-and-tools/agent-skills/overview |
+| Skills in Agent SDK | https://platform.claude.com/docs/en/agent-sdk/skills |
+| Help Center | https://support.claude.com/en/articles/12512176-what-are-skills |
 
 ---
 
